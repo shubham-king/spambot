@@ -7,8 +7,8 @@ from bot import Bot
 async def start(c: Client, m: Message):
     await c.send_message(
         m.chat.id,
-        f"Hi {m.from_user.first_name}. I am an account info checker inspired by @SpEcHIDe 's @CheckRestrictionsBot."\
+        f"Hi {m.from_user.first_name}. I am an account info checker for Ids/bots/groups/"\
         " Send me the username of the USERS/GROUPS/CHANNELS/BOTS to check for any applied Telegram restrictions!"\
-        "\n\n<code>Example : @username</code>.\n\nMade with ❤️ by @KeralasBots",
+        "\n\n<code>Example : @username</code>.\n\nMade with ❤️ by @RobotTech_official",
         parse_mode="html"
     )
