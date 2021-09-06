@@ -6,7 +6,9 @@
   <b> 
   A Bot To check restrictions applied on Users/Groups/Channels .
   I can be hosted on anywhere!
-  </>
+  </b
+# Deploy 
+  
     
 
     
