@@ -7,7 +7,8 @@
   A Bot To check restrictions applied on Users/Groups/Channels .
   I can be hosted on anywhere!
   </b>
-# Deploy 
+  
+# Deploy to heroku
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/shubham-king/spambot)
 
