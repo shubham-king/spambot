@@ -38,7 +38,7 @@ async def private_check(c: Bot, m: Message):
     try:
         if a.restrictions is not None:
             text = f"[{chat_name}]({link}) has the following restriction_reason(s):\n"
-            lat = "ℹ️ Powered by @KeralasBots"
+            lat = "ℹ️ Powered by @Robottech_official"
             for i in a.restrictions:
                 v_text = f"👉🏻 {i.reason}-{i.platform}: {i.text}\n\n"
                 text += "{}".format(v_text)
