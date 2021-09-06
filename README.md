@@ -8,6 +8,12 @@
   I can be hosted on anywhere!
   </b>
 # Deploy 
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/shubham-king/spambot)
+
+[Bot Demo](https://t.me/master_spambot)
+
+
   
     
 
