@@ -51,7 +51,7 @@ async def private_check(c: Bot, m: Message):
         else:
             await c.send_message(
                 m.chat.id,
-                f"Good News! No Limitations are currently applied to [{chat_name}]({link})\n\nℹ️ Powered by @KeralasBots",
+                f"Good News! No Limitations are currently applied to [{chat_name}]({link})\n\nℹ️ Powered by @Robottech_official",
                 parse_mode='markdown',
                 reply_to_message_id=m.message_id
             )
@@ -59,7 +59,7 @@ async def private_check(c: Bot, m: Message):
     except Exception as e:
         await c.send_message(
             m.chat.id,
-            f"Good News! No Limitations are currently applied to [{chat_name}]({link})\n\nℹ️ Powered by @KeralasBots",
+            f"Good News! No Limitations are currently applied to [{chat_name}]({link})\n\nℹ️ Powered by @Robottech_official",
             parse_mode='markdown',
             reply_to_message_id=m.message_id
         )
