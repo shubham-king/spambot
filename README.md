@@ -15,6 +15,16 @@
 [Bot Demo](https://t.me/master_spambot)
 
 
+# Credits 
+
+this is a bot under [Robot Tech](https://t.me/Robottech_official) to check whether restrictions is applied or not.\n it will work on users , groups, channel etc. you are independent to use this repo to make your own!\n
+
+<h3>
+Devs <br>
+  Shubham <br>
+  kerala bots 
+  </h3>
+
   
     
 
